@@ -12,7 +12,7 @@ public class MaxMinusMin {
     public int difference(List<Integer> nums){
 //Collections.sort(nums);
         // Integer min = nums.get(0);
-        // Integer max = nums.get(nums.size());
+        // Integer max = nums.get(nums.size()-1);
         // return max-min;
 
         
